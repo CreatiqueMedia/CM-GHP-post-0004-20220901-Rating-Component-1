@@ -41,7 +41,7 @@ The designs were created to the following widths:
 
 .highlight-btn {
   background-color: var(--LightGrey) !important;
-  opacity: 1 !important;
+  opacity: 1;
 }
 
 .path-btn-icon {
